@@ -14,7 +14,6 @@
             <br>
 
             <?php
-                  // test 2
                   $i;
                   $num = 5;
 
